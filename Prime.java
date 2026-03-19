@@ -7,6 +7,7 @@ public class Prime {
 
     if(isPrime(x)){
         System.out.println("It is prime");
+        System.out.println("It is prime");
     }
     else{
         System.out.println("Not prime");
